@@ -75,6 +75,7 @@ The module sends debugging information to the WHMCS module logging mechanism
 
 - PHP 5.6+
 - NameSRS registrar module
+- PHP max_input_vars = 40000 (restart web server after change)
 
 ### Installation
 
